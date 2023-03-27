@@ -1,4 +1,6 @@
-# Run this webapp on Mobile Devices
+# HACKEDCODE Hackathon
+
+Run this webapp on mobile device.
 
 
 
